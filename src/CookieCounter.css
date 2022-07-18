@@ -1,0 +1,18 @@
+.Cookie-Counter {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+    color: white;
+    margin-top: 2rem;
+}
+
+#Cookie-Button {
+    background-image: url('./cookie.jpeg');
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    background-position: center;
+    width: 220px;
+    height: 80px;
+    border-radius: 50%;
+}
